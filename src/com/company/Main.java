@@ -24,7 +24,7 @@ public class Main {
 
 		Human Andrzej = new Human();
 		Andrzej.firstName = "Andrzej";
-		Andrzej.lastName = "Nowak";
+		Andrzej.lastName = "Nowaki";
 		Andrzej.sex = "Male";
 		Andrzej.age = 33;
 		Andrzej.mobilePhone = iphone;
